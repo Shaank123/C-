@@ -1,6 +1,4 @@
-Great choice! Let's break down the **Inventory Management System** project into manageable steps:
-
-### **Project Breakdown**
+ **Project Breakdown**
 
 #### 1. **System Requirements**
    - **Items Management:** Add, update, delete, and search items in the inventory.
